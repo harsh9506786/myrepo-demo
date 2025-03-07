@@ -2,4 +2,4 @@
 This is my first github repo.
 <br>
 <hr>
-Author - Harshvardhan Sharma
+Author - Harshvardhan Sharma from github
